@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🌱 I’m currently learning Java DSA.
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Vinothraja98?theme=dark&font=Overlock&ext=heatmap)
 
 <!--
 **vinothraja98/vinothraja98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
